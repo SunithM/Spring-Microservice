@@ -1,0 +1,3 @@
+com\eazybytes\loans\constants\LoansConstants.class
+com\eazybytes\loans\audit\AuditAwareImpl.class
+com\eazybytes\loans\LoansApplication.class
