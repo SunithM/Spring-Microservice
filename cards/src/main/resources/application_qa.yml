@@ -1,0 +1,18 @@
+
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Roman - Developer"
+    email: "roman@eazybank.com"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 523-1345

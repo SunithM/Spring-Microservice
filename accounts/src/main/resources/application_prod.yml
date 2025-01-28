@@ -1,0 +1,18 @@
+#spring.application.name=accounts
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "Sunith- Developer"
+    email: "sunith@eazybank.com"
+  onCallSupport:
+    - (111) 555-1234
+    - (111) 523-1345
+
+

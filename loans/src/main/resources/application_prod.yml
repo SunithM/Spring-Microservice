@@ -1,0 +1,18 @@
+server:
+  port: 8090
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank loans related prod APIs "
+  contactDetails:
+    name: "Sunith M - Developer"
+    email: "smajs@eazybank.com"
+  onCallSupport:
+    - (888) 456-2176
+    - (888) 764-8934
