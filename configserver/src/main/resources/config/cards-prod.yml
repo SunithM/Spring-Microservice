@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs "
+  contactDetails:
+    name: "Pavan - Developer"
+    email: "pavan@eazybank.com"
+  onCallSupport:
+    - (999) 555-1234
+    - (999) 523-1345

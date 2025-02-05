@@ -1,0 +1,14 @@
+#spring.application.name=accounts
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "John Cena - QA"
+    email: "cena@eazybank.com"
+  onCallSupport:
+    - (333) 555-1234
+    - (333) 523-1345
+
+
